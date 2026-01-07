@@ -1,0 +1,15 @@
+{
+  "accounts": [
+    {
+      "username": "owner",
+      "password": "owner123",
+      "role": "owner",
+      "limit_server": 999,
+      "used_server": 0,
+      "limit_ram": 999999,
+      "used_ram": 0,
+      "parent": null
+    }
+  ],
+  "servers": []
+}
